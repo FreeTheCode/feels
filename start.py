@@ -3,5 +3,5 @@ que=input("And how are you feeling? ")
 print("You are "+star)
 if (que="Happy"):
   print("And you are one happy fellow!")
-elif:
+else:
   print("And you are feeling "+que)
